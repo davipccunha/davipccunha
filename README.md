@@ -16,7 +16,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> <img src="https://i0.wp.com/pt.mundobabushka.com/wp-content/uploads/sites/5/2016/03/js-logo.png?fit=500%2C500&ssl=1" alt="js" width="40" height="40"/> </a> </p>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> <img src="https://i0.wp.com/pt.mundobabushka.com/wp-content/uploads/sites/5/2016/03/js-logo.png?fit=500%2C500&ssl=1" alt="js" width="40" height="40"/> </a> 
+<a href="https://discordapp.com/developers" target="_blank"> <img src="https://www.pngkey.com/png/full/233-2333311_discord-image-png-discord-js.png" alt="discordjs" width="40" height="40"/> </a> 
+</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davipccunha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="davipccunha" /></p>
