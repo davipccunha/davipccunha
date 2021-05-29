@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Davi Cunha</h1>
-<h3 align="center">I'm developer from MG/Brazil</h3>
+<h3 align="center">Developer from MG/Brazil</h3>
 
 <p align="center"> <a href="https://twitter.com/davipccunha_" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/davipccunha_?logo=twitter&style=for-the-badge" alt="davi" /></a> </p>
 
