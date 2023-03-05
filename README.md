@@ -1,23 +1,15 @@
-<h1 align="center">Hey, I'm Davi Cunha</h1>
-<h3 align="center">Developer from MG/Brazil</h3>
+<h1 align="center">Hey, I am Davi Cunha</h1>
+<h3 align="center">I am a developer from MG-Brazil</h3>
 
-<p align="center"> <a href="https://twitter.com/davipccunha_" target="blank"><img align="center" src="https://img.shields.io/twitter/follow/davipccunha_?logo=twitter&style=for-the-badge" alt="davi" /></a> </p>
-
-- 🔭 I’m currently working on [Rarley](https://github.com/RarleyInc)
-
-- 🌱 I’m currently learning Java
-
-- ☕ I've been working with JS for 1 year
-
-<h3 align="left">Contact me:</h3>
-<p align="left">
-<a href="https://twitter.com/davipccunha_" target="blank"><img align="center" src = "https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-7.png" alt="davipccunha_" height="30" width="30" /></a>
+- 🔭 Worked on [Rarley](https://github.com/RarleyInc)
+- 🛠 Work mainly with NodeJS and discord.js library.
+- 🌱 Currently learning Java, NodeJS and Python
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> <img src="https://i0.wp.com/pt.mundobabushka.com/wp-content/uploads/sites/5/2016/03/js-logo.png?fit=500%2C500&ssl=1" alt="js" width="40" height="40"/> </a> 
-<a href="https://discord.com/developers/docs/intro" target="_blank"> <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="discordjs" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://discord.com/developers/docs/intro" target="_blank"> <img src="https://japaniste.fr/wp-content/uploads/2019/12/discord-logo-logodownload-download-logotipos-1.png" alt="discordjs" width="40" height="40"/> </a>
 </p>
 
 
