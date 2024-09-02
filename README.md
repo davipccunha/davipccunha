@@ -1,15 +1,16 @@
 <h1 align="center">Hey, I am Davi Cunha</h1>
-<h3 align="center">I am a developer from MG-Brazil</h3>
+<h3 align="center">I am a Java and TS developer from MG-Brazil</h3>
 
 - 🔭 Worked on [Rarley](https://github.com/RarleyInc)
-- 🛠 Work mainly with NodeJS and discord.js library.
-- 🌱 Currently learning Java, NodeJS and Python
+- 🛠 Work mainly with TS/NodeJS and discord.js library
+- 🌱 Constantly learning Java, NodeJS/TS and Python
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://discord.com/developers/docs/intro" target="_blank"> <img src="https://japaniste.fr/wp-content/uploads/2019/12/discord-logo-logodownload-download-logotipos-1.png" alt="discordjs" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/docs/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40" /> </a>
+<a href="https://discord.com/developers/docs/intro" target="_blank"> <img src="https://avatars.githubusercontent.com/u/26492485?s=200&v=4" alt="discordjs" width="40" height="40"/> </a>
 </p>
 
 
